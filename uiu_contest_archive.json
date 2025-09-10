@@ -1,0 +1,1152 @@
+[
+  {
+    "contestName": "CodeClash – Oscillon 2025, Powered By Phitron",
+    "contestLink": "https://toph.co/problems/contests/codeclash-oscillon-2025",
+    "rankingLink": "https://toph.co/c/codeclash-oscillon-2025/standings",
+    "totalTeams": 43,
+    "contestType": "IUPC",
+    "year": 2025,
+    "date": "September 6",
+    "teams": [
+      {
+        "position": "15",
+        "teamName": "UIU_Entropy",
+        "teamCoach": "",
+        "teamMembers": [
+          "SK. Istiaq Arefin",
+          "AL-Muktadir Islam Mahit",
+          "Mohammad Sorif"
+        ],
+        "teamPicture": "https://www.facebook.com/photo/?fbid=122144609216618829&set=a.122096222408618829",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "Uttara University Inter-University Programming Contest 2025",
+    "contestLink": "https://toph.co/problems/contests/uttara-university-inter-university-2025",
+    "rankingLink": "https://toph.co/c/uttara-university-inter-university-2025/standings",
+    "totalTeams": 115,
+    "contestType": "IUPC",
+    "year": 2025,
+    "date": "June 21",
+    "teams": [
+      {
+        "position": "95",
+        "teamName": "UIU_অরুণ_প্রাতের_তরুণ_দল",
+        "teamCoach": "",
+        "teamMembers": [
+          "Muhammad Sabbir Hossain",
+          "Rakibul Islam Sabid",
+          "AL-Muktadir Islam Mahit"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "Betopia Group Presents DUET Inter University Programming Contest 2025",
+    "contestLink": "https://toph.co/problems/contests/duet-inter-university-iupc-2025",
+    "rankingLink": "https://toph.co/c/duet-inter-university-iupc-2025/standings",
+    "totalTeams": 131,
+    "contestType": "IUPC",
+    "year": 2025,
+    "date": "May 10",
+    "teams": [
+      {
+        "position": "69",
+        "teamName": "UIU_মাকাল_ফল",
+        "teamCoach": "",
+        "teamMembers": [
+          "Muhammad Sabbir Hossain",
+          "Rakibul Islam Sabid",
+          "Tashfiq Ahmed Taki"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "MTB Presents AUST Inter University Programming Contest 2025 Standings",
+    "contestLink": "https://toph.co/problems/contests/mtb-presents-aust-inter-university-2025",
+    "rankingLink": "https://toph.co/c/mtb-presents-aust-inter-university-2025/standings",
+    "totalTeams": 130,
+    "contestType": "IUPC",
+    "year": 2025,
+    "date": "February 22",
+    "teams": [
+      {
+        "position": "100",
+        "teamName": "UIU_হাট্টিমাটিম_টিম",
+        "teamCoach": "",
+        "teamMembers": [
+          "Muhammad Sabbir Hossain",
+          "Rakibul Islam Sabid",
+          "Tasfiq Ahmed Taki"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "103",
+        "teamName": "UIU_HereForFood",
+        "teamCoach": "",
+        "teamMembers": [
+          "Afnan Zaman Muhammad Sajid",
+          "Swarup Debnath",
+          "Mohaimin Hossain"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "UIU Inter-University Programming Contest 2025",
+    "contestLink": "https://github.com/baps-problemset-archive/contests-archive/blob/main/uiu-iupc-2025/statements.pdf",
+    "rankingLink": "https://bapsoj.org/contests/uiu-inter-university-programming-contest-2025/standings",
+    "totalTeams": 160,
+    "contestType": "UIU IUPC",
+    "year": 2025,
+    "date": "January 18",
+    "teams": [
+      {
+        "position": "56",
+        "teamName": "UIU_UwU",
+        "teamCoach": "",
+        "teamMembers": [
+          "Mohaimin Hossain",
+          "Md. Rakibul Islam Sabid",
+          "Tasfiq Ahmed Taki"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "111",
+        "teamName": "UIU_Dhur_Chata",
+        "teamCoach": "",
+        "teamMembers": [
+          "Abir Hossain Amee",
+          "Muminul Islam",
+          "Muhammad Sabbir Hossain"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "131",
+        "teamName": "UIU_Cyber_Knights",
+        "teamCoach": "",
+        "teamMembers": [
+          "Md. Mostafizur Rahman",
+          "Md. Shakhawat Hossain",
+          "Md. Tashin Parvez"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "134",
+        "teamName": "UIU_Hotasha",
+        "teamCoach": "",
+        "teamMembers": [
+          "Swarup Debnath",
+          "Amdadul Islam",
+          "Afnan Zaman Muhammad Sajid"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "139",
+        "teamName": "UIU_Pale_Blue_Dot",
+        "teamCoach": "",
+        "teamMembers": [
+          "Emam Hasan",
+          "Rakibul Hasan",
+          "Md. Lotifur Rahman Nishat"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "145",
+        "teamName": "UIU_Entropy",
+        "teamCoach": "",
+        "teamMembers": [
+          "AL-Muktadir Islam Mahit",
+          "Maruf Hossain Tamim",
+          "SK. Istiaq Arefin"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "146",
+        "teamName": "UIU_Alliance",
+        "teamCoach": "",
+        "teamMembers": [
+          "Arjun Pal",
+          "Md. Mahbubur Rahman",
+          "Sheikh Tanvir Ahmed"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "MIAKI Presents KUET IUPC Onsite 2025",
+    "contestLink": "https://drive.google.com/file/d/1grOQsUBx4PWC9-tIAFXF62PmEvckOji0/view",
+    "rankingLink": "https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings",
+    "totalTeams": 160,
+    "contestType": "IUPC",
+    "year": 2025,
+    "date": "January 4",
+    "teams": [
+      {
+        "position": "50",
+        "teamName": "UIU_Dhur_Chata",
+        "teamCoach": "",
+        "teamMembers": [
+          "Abir Hossain Amee",
+          "Muminul Islam",
+          "Muhammad Sabbir Hossain"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "2024 ICPC Asia Dhaka Regional Contest",
+    "contestLink": "https://drive.google.com/file/d/1PpFD3H8mjhnt4L6s5UPOCw0qRhm1vQmx/view",
+    "rankingLink": "https://icpc.global/regionals/finder/Dhaka-2025/standings",
+    "totalTeams": 307,
+    "contestType": "ICPC Regional",
+    "year": 2024,
+    "date": "December 7",
+    "teams": [
+      {
+        "position": "133",
+        "teamName": "UIU_Dhur_Chata",
+        "teamCoach": "",
+        "teamMembers": [
+          "Abir Hossain Amee",
+          "Muminul Islam",
+          "Muhammad Sabbir Hossain"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "198",
+        "teamName": "UIU_Entropy",
+        "teamCoach": "",
+        "teamMembers": [
+          "AL-Muktadir Islam Mahit",
+          "Maruf Hossain Tamim",
+          "Md. Sahrior Haider Shovon"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "210",
+        "teamName": "UIU_Direwolves",
+        "teamCoach": "",
+        "teamMembers": [
+          "Samshia Mehjabi Zim",
+          "Mohaimin Hossain",
+          "Noor E Hamim Nibir"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "United Group Presents BUET CSE Fest 2024",
+    "contestLink": "https://toph.co/problems/contests/inter-university-buet-cse-fest-2024",
+    "rankingLink": "https://toph.co/c/inter-university-buet-cse-fest-2024/standings",
+    "totalTeams": 113,
+    "contestType": "IUPC",
+    "year": 2024,
+    "date": "November 1",
+    "teams": [
+      {
+        "position": "92",
+        "teamName": "UIU_Mayer_Doa",
+        "teamCoach": "",
+        "teamMembers": [
+          "Abir Hossain Amee",
+          "Muminul Islam",
+          "Muhammad Sabbir Hossain"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "IUT 11th National ICT Fest Programming Contest 2024",
+    "contestLink": "https://toph.co/problems/contests/iut-11th-national-ict-fest-2024",
+    "rankingLink": "https://toph.co/c/iut-11th-national-ict-fest-2024/standings/kiosk",
+    "totalTeams": 108,
+    "contestType": "IUT ICT Fest",
+    "year": 2024,
+    "date": "April 27",
+    "teams": [
+      {
+        "position": "53",
+        "teamName": "UIU_Dhur_Chata",
+        "teamCoach": "",
+        "teamMembers": [
+          "Abir Hossain Amee",
+          "Muminul Islam",
+          "Muhammad Sabbir Hossain"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "Kinetik Presents CUET Inter University Programming Contest CodeStorm 1.0",
+    "contestLink": "https://toph.co/problems/contests/cuet-inter-university-codestorm-1-0",
+    "rankingLink": "https://toph.co/c/cuet-inter-university-codestorm-1-0/standings",
+    "totalTeams": 98,
+    "contestType": "IUPC",
+    "year": 2024,
+    "date": "January 26",
+    "teams": [
+      {
+        "position": "49",
+        "teamName": "UIU_Mayer_Doa",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "ICPC Dhaka Regional Site 2023 hosted by BUBT",
+    "contestLink": "https://drive.google.com/file/d/1seRwYA2X9-nUh5He-VH2XR5hF6CneBy4/view",
+    "rankingLink": "https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings",
+    "totalTeams": 225,
+    "contestType": "ICPC Regional",
+    "year": 2023,
+    "date": "November 4",
+    "teams": [
+      {
+        "position": "61",
+        "teamName": "UIU_Zero_Solvers",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "CoU-BRACNet Inter University Programming Contest 2023",
+    "contestLink": "https://toph.co/problems/contests/cou-bracnet-inter-university-2023",
+    "rankingLink": "https://toph.co/c/cou-bracnet-inter-university-2023/standings",
+    "totalTeams": 59,
+    "contestType": "IUPC",
+    "year": 2023,
+    "date": "September 16",
+    "teams": [
+      {
+        "position": "44",
+        "teamName": "UIU_Zero_Solvers",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "NCPC Onsite 2023 Hosted by JU",
+    "contestLink": "https://docs.google.com/document/d/1LvF7II_Xr4UhFfTbNiltklxDvVgdCb8E7ZRjIB21iok/edit?tab=t.0",
+    "rankingLink": "https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings",
+    "totalTeams": 196,
+    "contestType": "NCPC",
+    "year": 2023,
+    "date": "March 9",
+    "teams": [
+      {
+        "position": "142",
+        "teamName": "UIU_METAMORPHOSIS",
+        "teamCoach": "",
+        "teamMembers": [
+          "Abir Hossain Amee",
+          "Muminul Islam",
+          "Muhammad Sabbir Hossain"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "192",
+        "teamName": "UIU_Aspirants",
+        "teamCoach": "",
+        "teamMembers": [
+          "Rakibul Islam Sabid",
+          "Rafiul Islam Rafi",
+          "Azizur Rahman"
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "Kite Games Presents Inter University Programming Contest - SUST CSE Carnival 2024",
+    "contestLink": "https://toph.co/problems/contests/inter-university-sust-cse-carnival-2024",
+    "rankingLink": "https://toph.co/c/inter-university-sust-cse-carnival-2024/standings",
+    "totalTeams": 120,
+    "contestType": "IUPC",
+    "year": 2023,
+    "date": "February 18",
+    "teams": [
+      {
+        "position": "52",
+        "teamName": "UIU_Metamorphosis01",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "Cefalo SUST Inter University Programming Contest 2023",
+    "contestLink": "https://toph.co/problems/contests/sust-inter-university-2023",
+    "rankingLink": "https://toph.co/c/sust-inter-university-2023/standings",
+    "totalTeams": 120,
+    "contestType": "IUPC",
+    "year": 2023,
+    "date": "January 28",
+    "teams": [
+      {
+        "position": "68",
+        "teamName": "UIU_Zero_Solvers",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "BUET Inter University Programming Contest 2023",
+    "contestLink": "https://toph.co/problems/contests/buet-inter-university-2023",
+    "rankingLink": "https://toph.co/c/buet-inter-university-2023/standings",
+    "totalTeams": 100,
+    "contestType": "IUPC",
+    "year": 2023,
+    "date": "July 28",
+    "teams": [
+      {
+        "position": "64",
+        "teamName": "UIU_Zero_Solvers",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "2021 ICPC Asia Dhaka Regional Contest",
+    "contestLink": "https://drive.google.com/file/d/131tv6WjNEXaTIaYrFgn5tGQY2TQbx7vm/view",
+    "rankingLink": "https://icpc.global/regionals/finder/Dhaka-2022/standings",
+    "totalTeams": 161,
+    "contestType": "ICPC Regional",
+    "year": 2021,
+    "date": "October 8",
+    "teams": [
+      {
+        "position": "63",
+        "teamName": "UIU_Zero_Solvers",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "113",
+        "teamName": "Team_anonymous_01",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "MIST NCPC 2020",
+    "contestLink": "https://drive.google.com/file/d/16ohrSa1WvpOQZLXkI8gsOdQyZm8mBjJd/view",
+    "rankingLink": "https://pdfcoffee.com/final-team-list-mist-ncpc-pdf-free.html",
+    "totalTeams": 150,
+    "contestType": "NCPC",
+    "year": 2020,
+    "date": "February 22",
+    "teams": [
+      {
+        "position": "",
+        "teamName": "UIU_zero_zero_One",
+        "teamCoach": "",
+        "teamMembers": [
+          "Ridwan Bin Sarwar",
+          "",
+          ""
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "",
+        "teamName": "UIU_C_for_CAT",
+        "teamCoach": "",
+        "teamMembers": [
+          "Md. Mahinur Rashid",
+          "",
+          ""
+        ],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "BUET Inter University Programming Contest 2022",
+    "contestLink": "https://toph.co/problems/contests/buet-inter-university-2022",
+    "rankingLink": "https://toph.co/c/buet-inter-university-2022/standings",
+    "totalTeams": 114,
+    "contestType": "IUPC",
+    "year": 2022,
+    "date": "July 29",
+    "teams": [
+      {
+        "position": "82",
+        "teamName": "UIU_Hash",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "LU CSE Carnival 2019 Inter University Programming Contest",
+    "contestLink": "https://toph.co/problems/contests/lu-cse-carnival-iupc-2019",
+    "rankingLink": "https://toph.co/c/lu-cse-carnival-iupc-2019/standings",
+    "totalTeams": 57,
+    "contestType": "IUPC",
+    "year": 2019,
+    "date": "October 20",
+    "teams": [
+      {
+        "position": "17",
+        "teamName": "UIU_CG_or_CP",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "23",
+        "teamName": "UIU_One_Last_Time",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "2019 ICPC Asia Dhaka Regional Contest",
+    "contestLink": "https://drive.google.com/file/d/1VSsYSns8TyEF7JJMBQBO2kCHyR8DxIrA/view",
+    "rankingLink": "https://icpc.global/regionals/finder/Dhaka-2020/standings",
+    "totalTeams": 190,
+    "contestType": "ICPC Regional",
+    "year": 2019,
+    "date": "November 16",
+    "teams": [
+      {
+        "position": "45",
+        "teamName": "UIU_CG_or_CP",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "84",
+        "teamName": "UIU_One_Last_Time",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "NSU Cybernauts National Programming Contest 2019",
+    "contestLink": "https://toph.co/problems/contests/cybernauts19",
+    "rankingLink": "https://toph.co/c/cybernauts19/standings",
+    "totalTeams": 59,
+    "contestType": "IUPC",
+    "year": 2019,
+    "date": "November 8",
+    "teams": [
+      {
+        "position": "45",
+        "teamName": "UIU_CG_or_CP",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "57",
+        "teamName": "UIU_One_Last_Time",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "LU CSE Carnival 2019 Inter University Programming Contest",
+    "contestLink": "https://toph.co/problems/contests/lu-cse-carnival-iupc-2019",
+    "rankingLink": "https://toph.co/c/lu-cse-carnival-iupc-2019/standings",
+    "totalTeams": 57,
+    "contestType": "IUPC",
+    "year": 2019,
+    "date": "October 20",
+    "teams": [
+      {
+        "position": "17",
+        "teamName": "UIU_CG_or_CP",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "23",
+        "teamName": "UIU_One_Last_Time",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "SUST Inter University Programming Contest 2019",
+    "contestLink": "https://toph.co/problems/contests/sust-iupc-2019",
+    "rankingLink": "https://toph.co/c/sust-iupc-2019/standings",
+    "totalTeams": 84,
+    "contestType": "IUPC",
+    "year": 2019,
+    "date": "April 20",
+    "teams": [
+      {
+        "position": "37",
+        "teamName": "UIU_BrainFreeze",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "43",
+        "teamName": "UIU_Spark",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "IUT 10th ICT Fest Programming Contest",
+    "contestLink": "https://toph.co/problems/contests/iut-ict-fest-2019",
+    "rankingLink": "https://toph.co/c/iut-ict-fest-2019/standings",
+    "totalTeams": 84,
+    "contestType": "IUT ICT Fest",
+    "year": 2019,
+    "date": "April 13",
+    "teams": [
+      {
+        "position": "24",
+        "teamName": "UIU_Let_Us_Sleep",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "61",
+        "teamName": "UIU_Mortuus",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "BUET CSE Fest 2019 Inter University Programming Contest",
+    "contestLink": "https://toph.co/problems/contests/buet-cse-fest-2019-iupc",
+    "rankingLink": "https://toph.co/c/buet-cse-fest-2019-iupc/standings",
+    "totalTeams": 86,
+    "contestType": "IUPC",
+    "year": 2019,
+    "date": "January 25",
+    "teams": [
+      {
+        "position": "70",
+        "teamName": "UIU_New_Leaf",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "71",
+        "teamName": "UIU_Missing_ShadabVai",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "71",
+        "teamName": "One_Last_Contest",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "2018 ICPC Asia Dhaka Regional Contest",
+    "contestLink": "https://codeforces.com/gym/102040",
+    "rankingLink": "https://icpc.global/regionals/finder/Dhaka-2019/standings",
+    "totalTeams": 167,
+    "contestType": "ICPC",
+    "year": 2018,
+    "date": "November 10",
+    "teams": [
+      {
+        "position": "8",
+        "teamName": "UIU_Renegades",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": "Top 10 at ICPC Regionals"
+      },
+      {
+        "position": "105",
+        "teamName": "UIU_XOR",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "116",
+        "teamName": "UIU_One_Last_Time",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "163",
+        "teamName": "UIU_Pumping_Lemma",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "1st LU National ICT Fest Programming Contest 2018",
+    "contestLink": "https://toph.co/problems/contests/lu-ict-fest-2018",
+    "rankingLink": "https://toph.co/c/lu-ict-fest-2018/standings",
+    "totalTeams": 83,
+    "contestType": "ICPC",
+    "year": 2018,
+    "date": "May 13",
+    "teams": [
+      {
+        "position": "16",
+        "teamName": "UIU_Renegades",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "79",
+        "teamName": "UIU_Freezing_Fire",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "80",
+        "teamName": "UIU_Phoenix",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "BUET Inter University Programming Contest 2018",
+    "contestLink": "https://toph.co/problems/contests/buet-iupc-2018",
+    "rankingLink": "https://toph.co/c/buet-iupc-2018/standings",
+    "totalTeams": 81,
+    "contestType": "IUPC",
+    "year": 2018,
+    "date": "May 4",
+    "teams": [
+      {
+        "position": "9",
+        "teamName": "UIU_Renegades",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "62",
+        "teamName": "UIU_Freezing_Fire",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "Cybernauts NPC 2018",
+    "contestLink": "https://toph.co/problems/contests/cybernauts-npc-2018",
+    "rankingLink": "https://toph.co/c/cybernauts-npc-2018/standings",
+    "totalTeams": 130,
+    "contestType": "NPC",
+    "year": 2018,
+    "date": "March 24",
+    "teams": [
+      {
+        "position": "17",
+        "teamName": "UIU_Renegades",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "54",
+        "teamName": "UIU_Motu_Patlu",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "Banglalion-SUB IUPC 2018",
+    "contestLink": "https://toph.co/problems/contests/banglalion-sub-iupc-2018",
+    "rankingLink": "https://toph.co/c/banglalion-sub-iupc-2018/standings",
+    "totalTeams": 107,
+    "contestType": "IUPC",
+    "year": 2018,
+    "date": "February 24",
+    "teams": [
+      {
+        "position": "22",
+        "teamName": "UIU_Renegades",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "82",
+        "teamName": "UIU_FalconHeavy",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "95",
+        "teamName": "UIU_MoonWalker",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "NSU Inter University Girl's Programming Competition 2018",
+    "contestLink": "https://toph.co/problems/contests/nsu-iugpc-2018",
+    "rankingLink": "https://toph.co/c/nsu-iugpc-2018/standings",
+    "totalTeams": 60,
+    "contestType": "IUPC",
+    "year": 2018,
+    "date": "January 26",
+    "teams": [
+      {
+        "position": "44",
+        "teamName": "Last_One",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "IUT 9th ICT Fest 2017 Programming Contest",
+    "contestLink": "https://toph.co/problems/contests/iut-ict-fest-2017",
+    "rankingLink": "https://toph.co/c/iut-ict-fest-2017",
+    "totalTeams": 116,
+    "contestType": "IUT ICT Fest",
+    "year": 2017,
+    "date": "October 14",
+    "teams": [
+      {
+        "position": "14",
+        "teamName": "UIU_Fractal",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "64",
+        "teamName": "UIU_Plastic_Tree",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "112",
+        "teamName": "UIU Fake Water",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "The 2017 ACM-ICPC Asia Dhaka Regional Contest",
+    "contestLink": "https://drive.google.com/file/d/1JBXNaHlZhkfuczY3mNIUIdwUtKyV8SjY/view",
+    "rankingLink": "https://icpc.global/regionals/finder/Dhaka-2018/standings",
+    "totalTeams": 148,
+    "contestType": "ICPC Regional",
+    "year": 2017,
+    "date": "November 10",
+    "teams": [
+      {
+        "position": "9",
+        "teamName": "UIU_Fractal",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "25",
+        "teamName": "UIU_Devil_Returns",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "138",
+        "teamName": "UIU Fake Water",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "SUST Inter University Programming Contest",
+    "contestLink": "https://toph.co/problems/contests/sust-inter-2017",
+    "rankingLink": "https://toph.co/c/sust-inter-2017/standings",
+    "totalTeams": 161,
+    "contestType": "IUPC",
+    "year": 2017,
+    "date": "August 5",
+    "teams": [
+      {
+        "position": "8",
+        "teamName": "UIU_Fractal",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "41",
+        "teamName": "UIU_Devil_Returns",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "60",
+        "teamName": "UIU_Incognito",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "contestName": "SUB Inter University Programming Contest 2017",
+    "contestLink": "https://toph.co/problems/contests/sub-inter-2017",
+    "rankingLink": "https://toph.co/c/sub-inter-2017/standings",
+    "totalTeams": 97,
+    "contestType": "IUPC",
+    "year": 2017,
+    "date": "February 18",
+    "teams": [
+      {
+        "position": "26",
+        "teamName": "UIU_Fractal",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "55",
+        "teamName": "UIU_Runners",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "73",
+        "teamName": "UIU_Plastic_Tree",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      },
+      {
+        "position": "81",
+        "teamName": "UIU_Khelum_Naa",
+        "teamCoach": "",
+        "teamMembers": [],
+        "teamPicture": "",
+        "teamInfoLink": "",
+        "remarks": ""
+      }
+    ]
+  }
+]

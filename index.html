@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UIU Contest Archive</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo-section">
+                <div class="logo">
+                    <i class="fas fa-code"></i>
+                    <span>UIU Contest Archive</span>
+                </div>
+            </div>
+            <div class="search-section">
+                <div class="search-container">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search contests, teams, or members...">
+                </div>
+            </div>
+            <div class="theme-section">
+                <button id="themeToggle" class="theme-toggle">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <p>Explore UIU students’ achievements, rankings, and highlights from competitive programming contests, all in one place.</p>
+        </div>
+    </section>
+
+    <!-- Controls -->
+    <section class="controls-section">
+        <div class="controls-container">
+            <div class="sort-controls">
+                <label for="sortSelect">
+                    <i class="fas fa-sort"></i>
+                    Sort by:
+                </label>
+                <select id="sortSelect">
+                    <option value="year-desc">Newest First</option>
+                    <option value="year-asc">Oldest First</option>
+                    <option value="name-asc">Contest Name (A-Z)</option>
+                    <option value="name-desc">Contest Name (Z-A)</option>
+                </select>
+            </div>
+            <div class="stats-display" id="contestStats">
+                <span id="totalContests">0</span> contests found
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="contests-container" id="contestList">
+            <!-- Contests will be loaded here -->
+        </div>
+    </main>
+
+    <!-- Contribute Section -->
+    <section class="contribute-section">
+        <div class="contribute-container">
+            <div class="contribute-content">
+                <h3>Want to Contribute?</h3>
+                <p>Help us keep this archive updated with the latest contest information and team performances.</p>
+                <a href="mailto:nnahin2420504@bscse.uiu.ac.bd" class="contribute-btn">
+                    <i class="fas fa-envelope"></i>
+                    Contact Us
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-links">
+                <div class="quick-links">
+                    <h4>Quick Links</h4>
+                    <a href="https://therealbcs.com/iupc" target="_blank">
+                        <i class="fas fa-external-link-alt"></i>
+                        National Contests Informations
+                    </a>
+                    <a href="https://www.facebook.com/profile.php?id=61568564875384" target="_blank">
+                        <i class="fas fa-external-link-alt"></i>
+                        UIU Competitive Programming Community
+                    </a>
+                </div>
+                <div class="contributors">
+                    <h4>Contributors</h4>
+                    <div class="contributor-list">
+                        <div class="contributors-row">
+                            <div class="contributor">
+                                <span class="contributor-name">Al-Muktadir Islam Mahit</span>
+                                <div class="social-links">
+                                    <a href="https://www.facebook.com/al.muktadir.mahit" target="_blank"><i class="fab fa-facebook"></i></a>
+                                 <!--   <a href="https://github.com/demo" target="_blank"><i class="fab fa-github"></i></a> -->
+                                    <a href="https://www.linkedin.com/in/al-muktadir-islam-mahit-65b090294/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="contributor">
+                                <span class="contributor-name">Najib Hossain Nahin</span>
+                                <div class="social-links">
+                                    <a href="https://www.facebook.com/nahins10/" target="_blank"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://github.com/nahinio" target="_blank"><i class="fab fa-github"></i></a>
+                                    <a href="https://www.linkedin.com/in/najib-hossain-nahin/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 
