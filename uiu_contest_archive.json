@@ -792,7 +792,7 @@
     "contestLink": "https://codeforces.com/gym/102040",
     "rankingLink": "https://icpc.global/regionals/finder/Dhaka-2019/standings",
     "totalTeams": 167,
-    "contestType": "ICPC",
+    "contestType": "ICPC Regional",
     "year": 2018,
     "date": "November 10",
     "teams": [
@@ -839,7 +839,7 @@
     "contestLink": "https://toph.co/problems/contests/lu-ict-fest-2018",
     "rankingLink": "https://toph.co/c/lu-ict-fest-2018/standings",
     "totalTeams": 83,
-    "contestType": "ICPC",
+    "contestType": "IUPC",
     "year": 2018,
     "date": "May 13",
     "teams": [
