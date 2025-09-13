@@ -196,15 +196,20 @@ function createContestCard(contest, index) {
         team && team.teamName && team.teamName.trim()
     ) : [];
     
+    // Check if any team achieved top 10 rank
+    const hasTopRank = validTeams.some(team => team.position && parseInt(team.position) <= 10);
+    
     return `
         <div class="contest-card fade-in" style="animation-delay: ${index * 0.1}s">
             <div class="contest-header" data-contest-id="${index}">
                 <div class="contest-info">
-                    <h3>${escapeHtml(contest.contestName)}</h3>
+                    <h3>
+                        ${escapeHtml(contest.contestName)}
+                        ${hasTopRank ? '<i class="fas fa-award top-rank-icon" title="Top 10 Finish"></i>' : ''}
+                    </h3>
                     <div class="contest-meta">
                         <span class="contest-type">${escapeHtml(contest.contestType || 'Contest')}</span>
-                        <span><i class="fas fa-calendar"></i> ${contest.year}</span>
-                        ${contest.date ? `<span><i class="fas fa-clock"></i> ${escapeHtml(contest.date)}</span>` : ''}
+                        <span><i class="fas fa-clock"></i> ${contest.year}${contest.date ? ` ${escapeHtml(contest.date)}` : ''}</span>
                         ${contest.totalTeams ? `<span><i class="fas fa-users"></i> ${contest.totalTeams} teams</span>` : ''}
                     </div>
                 </div>

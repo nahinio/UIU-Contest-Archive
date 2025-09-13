@@ -105,18 +105,19 @@ body {
 .logo {
     display: flex;
     align-items: center;
-    gap: var(--spacing-sm);
-    font-weight: 700;
-    font-size: 1.25rem;
-    color: var(--secondary-color);
+    gap: 12px;  /* Space between logo and text */
 }
 
-.logo i {
-    font-size: 1.5rem;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.logo img {
+    height: 40px;  /* Adjust based on your logo size */
+    width: auto;
+    object-fit: contain;
+}
+
+.logo span {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--secondary-color);
 }
 
 .search-container {
@@ -274,6 +275,23 @@ body {
     font-weight: 600;
     color: var(--text-primary);
     margin-bottom: var(--spacing-xs);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.top-rank-icon {
+    color: #FFD700;  /* Gold color */
+    margin-left: 0.5rem;
+    font-size: 0.9em;
+    vertical-align: middle;
+    animation: shine 2s infinite;
+}
+
+@keyframes shine {
+    0% { opacity: 1; }
+    50% { opacity: 0.6; }
+    100% { opacity: 1; }
 }
 
 .contest-meta {
@@ -281,6 +299,17 @@ body {
     gap: var(--spacing-lg);
     color: var(--text-secondary);
     font-size: 0.875rem;
+}
+
+.contest-meta span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.contest-meta i {
+    font-size: 0.9em;
+    opacity: 0.8;
 }
 
 .contest-type {
