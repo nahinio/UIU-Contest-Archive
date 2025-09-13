@@ -1,6 +1,6 @@
 # UIU Contest Archive 🏆
 
-![UIU Contest Archive Banner](Resources/ContestArchiveLogo.png)
+![UIU Contest Archive Banner](Resources/front.png)
 
 A comprehensive archive of United International University's participation and achievements in various programming contests.
 
@@ -15,34 +15,17 @@ A comprehensive archive of United International University's participation and a
 
 ## 🚀 Quick Start
 
-1. Visit the live site: [UIU Contest Archive](https://your-site-url.com)
+1. Visit the live site: [UIU Contest Archive](https://nahinio.github.io/UIU-Contest-Archive/)
 2. Use the search bar to find specific contests or teams
 3. Sort contests using the dropdown menu
 4. Click on contest cards to view detailed team information
 5. Toggle dark/light mode using the theme button
 
-## 💻 Running Locally
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/UIU-Contest-Archive.git
-```
-
-2. Navigate to project directory:
-```bash
-cd UIU-Contest-Archive
-```
-
-3. Open with VS Code and use Live Server:
-   - Install Live Server extension in VS Code
-   - Right-click on `index.html`
-   - Select "Open with Live Server"
-
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3 (with CSS Variables for theming)
-- Vanilla JavaScript
+- Vanilla JavaScript (Fetching Data from Json)
 - Font Awesome Icons
 - Google Fonts (Inter)
 
@@ -85,16 +68,12 @@ Or contact us at: nnahin2420504@bscse.uiu.ac.bd
   - [GitHub](https://github.com/nahinio)
   - [LinkedIn](https://www.linkedin.com/in/najib-hossain-nahin/)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## 🙏 Acknowledgments
 
-- UIU CSE Department
+- Depertment of Computer Science and Engineering, United International University
 - UIU Competitive Programming Community
 - All UIU Programming Teams
 - Contest Organizers
 
 ---
-Made with 💙 for UIU's Competitive Programming Community
+## Happy Coding </>
