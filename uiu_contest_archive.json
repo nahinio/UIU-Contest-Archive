@@ -574,36 +574,7 @@
         "remarks": ""
       }
     ]
-  },
-  {
-    "contestName": "LU CSE Carnival 2019 Inter University Programming Contest",
-    "contestLink": "https://toph.co/problems/contests/lu-cse-carnival-iupc-2019",
-    "rankingLink": "https://toph.co/c/lu-cse-carnival-iupc-2019/standings",
-    "totalTeams": 57,
-    "contestType": "IUPC",
-    "year": 2019,
-    "date": "October 20",
-    "teams": [
-      {
-        "position": "17",
-        "teamName": "UIU_CG_or_CP",
-        "teamCoach": "",
-        "teamMembers": [],
-        "teamPicture": "",
-        "teamInfoLink": "",
-        "remarks": ""
-      },
-      {
-        "position": "23",
-        "teamName": "UIU_One_Last_Time",
-        "teamCoach": "",
-        "teamMembers": [],
-        "teamPicture": "",
-        "teamInfoLink": "",
-        "remarks": ""
-      }
-    ]
-  },
+  }, 
   {
     "contestName": "2019 ICPC Asia Dhaka Regional Contest",
     "contestLink": "https://drive.google.com/file/d/1VSsYSns8TyEF7JJMBQBO2kCHyR8DxIrA/view",
